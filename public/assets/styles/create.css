@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+form{
+    width: inherit;
+}
+
+div.col-md-4{
+    margin-inline-end: 100%;
+}
+a.btn{
+    float: inline-end;
+}

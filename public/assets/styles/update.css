@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+form{
+    width: inherit;
+    margin: 30px auto;
+}
+
+div.col-md-4{
+    margin-inline-end: 100%;
+}
+div.col-4{
+    margin: 20px 0px;
+}
+a.btn{
+    float: inline-end;
+}
